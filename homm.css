@@ -1,0 +1,164 @@
+body {
+  background-color:black;
+  margin:0;
+  padding:20px 100px;
+  font-family:Arial, sans-serif;
+}
+
+.container {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.white {
+  color:white;
+}
+
+.orange {
+  color:orange;
+}
+
+.navbar a {
+  text-decoration:none;
+  color:gray;
+  margin-left:30px;
+  font-size:20px;
+}
+
+.logo{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:fit-content;
+    color:orange;
+    border:1px solid green;
+    padding:10px 20px;
+    border-radius:20px;
+    margin:50px auto 20px auto;
+   
+}
+h1 {
+  color: orange;
+  text-align:center;
+  font-size:70px;
+  margin-top:20px;
+}
+.gradient-text{
+    background: linear-gradient(to right, orange,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+ p{
+    text-align:center;
+    color:white;
+    font-size:18px;
+    line-height:1.8;  
+    margin-top:20px;
+}
+
+.logooo {
+  display: flex;              
+  justify-content: center;  
+  align-items: center;        
+  gap: 15px;                
+}
+
+.logo2, .logo3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  color: white;
+  border: 1px solid orange;
+  background-color: rgba(255, 123, 0, 0.808);
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin: 0;                 
+}
+
+.sup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;             
+  color: white;
+  margin-top: 40px;
+}
+
+.supp {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+.comm{
+ 
+  h1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:fit-content;
+    color:white;
+    border:1px solid rgb(245, 191, 245);
+    /* background-color:rgba(195, 194, 109, 0.808);  */
+    background: radial-gradient(ellipse at 30% 40%, rgba(124, 58, 237, 0.12), transparent); 
+    padding:15px 15px 15px 15px;
+
+    border-radius:20px;
+    margin:50px auto 20px auto;
+    font-size:25px;
+  }
+
+
+ 
+}
+
+.paraa{
+  color:white;
+  text-align:center;
+  line-height:1.8;
+
+}
+
+#num{
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(232, 210, 171);
+}
+
+.logo4{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  color: white;
+  border: 1px solid orange;
+  background-color: rgba(255, 123, 0, 0.808);
+  padding: 10px 20px;
+  border-radius: 20px;
+   margin:50px auto 20px auto;                
+
+}
+
+footer {
+    background-color: #0a0a0a;
+    color: #888;
+    padding: 20px;
+    font-size: 14px;
+}
+
+footer pre {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    white-space: pre-wrap;
+}
+
+
+
+
+
+
+
+
+
+
